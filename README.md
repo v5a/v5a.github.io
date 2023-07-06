@@ -2,4 +2,4 @@
 
 ### hello
 
-![图片](bluehair.png)
+<center><img src="bluehair.png" width="30%"></center>
