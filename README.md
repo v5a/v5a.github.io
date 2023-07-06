@@ -2,4 +2,4 @@
 
 ### hello
 
-![图片](./38253-3248171520-1girl, blue hair, wallpaper, outdoors,.png)
+![图片](bluehair.png)
